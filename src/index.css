@@ -8,12 +8,14 @@ body {
 }
 
 input {
-    padding: 5px;
+    padding: 0px;
     border: 1px;
     border-radius: 6px;
     color: gray;
     font-size: 1.2rem;
-    width: 100%;
+    width: 40%;
+    height: 29px;
+    text-align: center;
 }
 
 input:hover {
@@ -47,10 +49,17 @@ input:hover {
 
 .titulo {
     text-align: center;
-    font-size: 33px;
+    font-size: 39px;
 }
 
 .titulo a {
     text-decoration: none;
     color: #000;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
