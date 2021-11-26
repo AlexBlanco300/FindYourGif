@@ -57,12 +57,4 @@ input:hover {
     color: #000;
 }
 
-.form {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: green;
-}
-
 /*# sourceMappingURL=main.40f1022b.chunk.css.map */
