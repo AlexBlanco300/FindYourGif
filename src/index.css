@@ -60,7 +60,6 @@ input:hover {
 .form {
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
-    background-color: green;
 }
